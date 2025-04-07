@@ -1,0 +1,14 @@
+C:\Users\miguelpinero\source\repos\restaurant-uny\bin\Debug\restaurant-uny.exe.config
+C:\Users\miguelpinero\source\repos\restaurant-uny\bin\Debug\restaurant-uny.exe
+C:\Users\miguelpinero\source\repos\restaurant-uny\bin\Debug\restaurant-uny.pdb
+C:\Users\miguelpinero\source\repos\restaurant-uny\bin\Debug\Ventas.dll
+C:\Users\miguelpinero\source\repos\restaurant-uny\bin\Debug\Ventas.pdb
+C:\Users\miguelpinero\source\repos\restaurant-uny\obj\Debug\restaurant-uny.csproj.AssemblyReference.cache
+C:\Users\miguelpinero\source\repos\restaurant-uny\obj\Debug\restaurant_uny.Form1.resources
+C:\Users\miguelpinero\source\repos\restaurant-uny\obj\Debug\restaurant_uny.Properties.Resources.resources
+C:\Users\miguelpinero\source\repos\restaurant-uny\obj\Debug\restaurant-uny.csproj.GenerateResource.cache
+C:\Users\miguelpinero\source\repos\restaurant-uny\obj\Debug\restaurant-uny.csproj.CoreCompileInputs.cache
+C:\Users\miguelpinero\source\repos\restaurant-uny\obj\Debug\restaura.D91748DB.Up2Date
+C:\Users\miguelpinero\source\repos\restaurant-uny\obj\Debug\restaurant-uny.exe
+C:\Users\miguelpinero\source\repos\restaurant-uny\obj\Debug\restaurant-uny.pdb
+C:\Users\miguelpinero\source\repos\restaurant-uny\obj\Debug\restaurant_uny.Form2.resources
