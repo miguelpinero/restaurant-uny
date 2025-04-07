@@ -33,8 +33,8 @@ namespace restaurant_uny
             {
                 dataGridVentas.Rows.Add(
                     venta.NombreCliente,
-                    venta.Telefono,
                     venta.Direccion,
+                    venta.Telefono,
                     venta.CantidadArticulos,
                     venta.MontoTotal.ToString("F2") + " USD",
                     venta.MontoTotalBs.ToString("F2") + " Bs"
